@@ -80,7 +80,7 @@ Ok, so now that we see what our regression line looks like, let's highlight how 
 ![](./regression-scatter.png)
 
 > Let's interpret the chart above.  That first red line shows that our regression formula does not perfectly predict that first show.   
-> * Our actual data -- the first blue dot -- shows that when $x = 100$, $y =  150$.  
+> * Our actual data -- the second blue dot -- shows that when $x = 100$, $y =  150$.  
 > * However, our regression line predicts that at $x = 100$, $y = 250$.  
 
 > So **our regression line is off by 100, indicated by the length of the red line.** 
